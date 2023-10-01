@@ -70,13 +70,13 @@ When I am not coding, you'll find me going out with friends or listening to musi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=arnav-vivian&theme=darcula&hide_border=false&include_all_commits=true&count_private=true"<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-vivian&theme=darcula&hide_border=false"/>
+  <img src ="https://github-readme-stats.vercel.app/api?username=bristi07&theme=darcula&hide_border=false&include_all_commits=true&count_private=true"<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bristi07&theme=darcula&hide_border=false"/>
 
 </p>
 
 ## 🔝 Most used languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-vivian&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bristi07&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
